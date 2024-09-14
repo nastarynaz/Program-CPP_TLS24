@@ -1,3 +1,9 @@
+# Tugas TLS: Pemrograman
+### Dibuat oleh :
+### Lagrange_Muhammad Khoirunas
+
+---
+
 # TETI Mart
 
 TETI Mart adalah program kasir sederhana yang dikembangkan menggunakan C++. Program ini mensimulasikan sistem point-of-sale untuk toko kecil, memungkinkan pengguna untuk memproses transaksi pembelian dan mencetak struk.
