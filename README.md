@@ -1,7 +1,7 @@
 # Tugas TLS: Pemrograman
 ### Dibuat oleh :
-### - Lagrange_Muhammad Khoirunas
-### - 2024
+- Lagrange_Muhammad Khoirunas
+- September 2024
 
 # TETI Mart
 
