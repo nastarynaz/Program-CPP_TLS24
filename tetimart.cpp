@@ -30,10 +30,10 @@ int totalBarang, int jumlahBarang[], int itemIndex, int totalHarga, int hargaBar
         cout << "\nDaftar barang yang dibeli:\n";
         cout << left << setw(15) << "Nama Barang" << setw(15) << "Jumlah Barang" << setw(15) << "Total Harga" << endl;
         for (int i = 0; i < itemIndex; i++) {
-            cout << left << setw(15) << namaBarang[i] << setw(15) << jumlahBarang[i] << setw(15) << hargaBarang[i] << endl;
+            cout << left << setw(15) << namaBarang[i] << setw(15) << jumlahBarang[i] << setw(15) << "Rp." << hargaBarang[i] << endl;
         }
         cout << string(40, '-') << endl;
-        cout << left << setw(15) << "Total" << setw(15) << totalBarang << setw(15) << totalHarga << endl;
+        cout << left << setw(15) << "Total" << setw(15) << totalBarang << setw(15) << "Rp." << totalHarga << endl;
         cout << "\n" << string(25, '-') << endl;
         cout << "~~Terima Kasih~~" << endl;
         cout << "Sampai Jumpa Lagi" << endl;
@@ -72,7 +72,7 @@ int main(){
                 break;
             }
             cout << "Pilih barang yang akan dibeli:" << endl;
-            cout << "1. Buku = 5000\n2. Pensil = 3000\n3. Pulpen = 4000\n4. Spidol = 6000" << endl;
+            cout << "1. Buku = Rp.5000\n2. Pensil = Rp.3000\n3. Pulpen = Rp.4000\n4. Spidol = Rp.6000" << endl;
             cout << "Tulis angkanya saja. Misal: '1': ";
             cin >> pilihanBarang;
             cout << "Jumlah barang yang akan dibeli" << endl;
