@@ -1,5 +1,5 @@
 # Tugas TLS: Pemrograman
-## Dibuat oleh :
+### Dibuat oleh :
 ### Lagrange_Muhammad Khoirunas
 ### 2024
 
